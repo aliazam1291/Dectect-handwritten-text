@@ -1,0 +1,1 @@
+# Dectect-handwritten-text
