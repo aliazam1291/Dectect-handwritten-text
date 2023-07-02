@@ -1,1 +1,1 @@
-# Dectect-handwritten-text
+# Detect-handwritten-text
